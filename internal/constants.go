@@ -1,0 +1,11 @@
+package internal
+
+const (
+	PUMP_FUN_PROGRAM = "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P"
+	FEE_RECIPIENT    = "62qc2CNXwrYqQScmEdiZFFAnJR262PxWEuNQtxfafNgV"
+	BUY_AMOUNT       = 0.001
+	SOL_USD_PRICE    = 175
+	SLIPPAGE         = 0.30
+
+	MARKET_CAP_THRESHOLD = 8000.0
+)
